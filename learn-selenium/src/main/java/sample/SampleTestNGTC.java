@@ -11,6 +11,8 @@ public class SampleTestNGTC {
 		EdgeDriver driver = new EdgeDriver();
 		driver.get("http://leaftaps.com/opentaps/");
 		System.out.println("hvhjgkghjgkhgh");
+		System.out.println("hvhjgkghjgkhgh");
+		System.out.println("hvhjgkghjgkhgh");
 	}
 	
 }
